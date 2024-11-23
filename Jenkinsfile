@@ -27,7 +27,7 @@ pipeline {
 		always {
 			echo 'I run always'
 		}
-		sucsess {
+		success {
 			echo 'I run when successful'
 		}
 		failure {
